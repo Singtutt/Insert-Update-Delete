@@ -20,7 +20,7 @@ FROM
         
 -- 4 --
 UPDATE 
-	productsadvertisements
+	products
 SET
 	UnitPrice = ((15/100)*40.00) + 40.00
 WHERE
